@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import {useDispatch} from "react-redux";
+
 
 import api from '../services/api';
 import { IProduct } from '../store/modules/cart/types';
